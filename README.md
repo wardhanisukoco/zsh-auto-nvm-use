@@ -13,7 +13,7 @@ antigen bundle Sparragus/zsh-auto-nvm-use
 ```
 
 ### As an [Oh My ZSH!](https://github.com/robbyrussell/oh-my-zsh) custom plugin
-Clone `zsh-auto-nvm-use` into your custom plugins repo.
+Clone `zsh-auto-nvm-use` into your custom plugins repo. Didn't work with `zstyle ':omz:plugins:nvm' lazy yes`
 
 ```
 git clone https://github.com/wardhanisukoco/zsh-auto-nvm-use ~/.oh-my-zsh/custom/plugins/zsh-auto-nvm-use
